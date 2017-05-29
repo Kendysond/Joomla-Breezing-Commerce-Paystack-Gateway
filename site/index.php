@@ -1,10 +1,5 @@
 <?php
-/**
- * @package     BreezingCommerce
- * @author      Markus Bopp
- * @link        http://www.crosstec.de
- * @license     GNU/GPL
-*/
+
 defined('_JEXEC') or die('Restricted access');
 
 $libpath = JPATH_ADMINISTRATOR . DS . 'components' . DS . 'com_breezingcommerce' . DS . 'classes' . DS . 'plugin' . DS;
